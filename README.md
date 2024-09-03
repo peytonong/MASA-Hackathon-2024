@@ -1,4 +1,4 @@
-MASA Hackathon 2024 – Top 8 Finalists	
+# MASA Hackathon 2024 – Top 8 Finalists	
 
 Apr 2024 – Jun 2024
 
